@@ -1,0 +1,15 @@
+{
+    "name": "jerome-rdlv/outgoing-ip",
+    "description": "Display outgoing IP of current website",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jérôme Mulsant",
+            "email": "jerome@rue-de-la-vieille.fr"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
